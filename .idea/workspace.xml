@@ -2,12 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f03a01f-1a5f-49b3-b420-f17f70308bf8" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/components/amqp/amqp.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/amqp/amqp.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/cache/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/cache/redis.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/db/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/elasticsearch/elasticsearch.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/elasticsearch/elasticsearch.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/logger/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/logger/logger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mail/mail.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/mail/mail.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mongo/mongo.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/mongo/mongo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/queue/kafka.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/queue/kafka.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ssh/ssh.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/ssh/ssh.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/zookeeper/zookeeper.go" beforeDir="false" afterPath="$PROJECT_DIR$/components/zookeeper/zookeeper.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/middlewares/gin/logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/gin/logger.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middlewares/gin/recover.go" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/gin/recover.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structs/base.go" beforeDir="false" afterPath="$PROJECT_DIR$/structs/base.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/aliyun_ecs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/aliyun_ecs_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/aliyun_oss_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/aliyun_oss_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/amqp_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/amqp_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/base.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/base.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cache_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/cache_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/coding_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/coding_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/datetime_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/datetime_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/db_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/db_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/elasticsearch_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/elasticsearch_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/file_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/file_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/http_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/http_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/image_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/image_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/mail_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/mail_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/mongo_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/mongo_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/queue_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/queue_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/random_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/random_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ssh_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ssh_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/uuid_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/uuid_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/zookeeper_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/tests/zookeeper_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdpartys/aliyun_ecs/aliyun_ecs.go" beforeDir="false" afterPath="$PROJECT_DIR$/thirdpartys/aliyun_ecs/aliyun_ecs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdpartys/aliyun_oss/aliyun_oss.go" beforeDir="false" afterPath="$PROJECT_DIR$/thirdpartys/aliyun_oss/aliyun_oss.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thirdpartys/dingding/dingding.go" beforeDir="false" afterPath="$PROJECT_DIR$/thirdpartys/dingding/dingding.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/coding/crypto.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/coding/crypto.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/coding/encoding.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/coding/encoding.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/coding/hash.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/coding/hash.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/coding/json.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/coding/json.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/coding/xml.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/coding/xml.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/datetime/datetime.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/datetime/datetime.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/debuger/debuger.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/debuger/debuger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/file/file.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/file/file.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/http/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/http/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/image/image.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/image/image.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/random/random.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/random/random.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/ssh/ssh.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/ssh/ssh.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/uuid/uuid.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/uuid/uuid.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
